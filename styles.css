@@ -53,11 +53,13 @@ ul {
     width: auto;
     height: 229.5px;
     margin: 50px 150px;
+    padding: 100px 0;
 }
 
 .main-content-text {
     margin: 50px 150px;
-    width: 300px;
+    max-width: 500px;
+    padding: 100px 0;
 }
 
 h1 , .main-content-para{
